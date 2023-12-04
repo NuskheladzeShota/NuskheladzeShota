@@ -17,5 +17,18 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=nuskheladzeshota&show_icons=true&locale=en&layout=compact" alt="nuskheladzeshota" /></p>
 
+<p>&nbsp;<img align="center"  src="https://github-readme-stats.vercel.app/api?username=nuskheladzeshota&show_icons=true&locale=en" alt="nuskheladzeshota" /></p>
+
+<style>
+  /* Set a custom background color */
+  body {
+    background-color: red;
+  }
+
+  /* Add some padding to the image */
+  img {
+    padding: 20px;
+  }
+</style>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nuskheladzeshota&" alt="nuskheladzeshota" /></p>
