@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nuskheladzeshota&label=Profile%20views&color=0e75b6&style=flat" alt="nuskheladzeshota" /> </p>
 
-<img align="right" alt="Coding" width="550" height="420"  src="[https://i.pinimg.com/originals/81/17/8b/81178b47a8598f0c81c4799f2cdd4057.gif](https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif)">
+<img align="right" alt="Coding" width="550" height="420" src="https://cdn.dribbble.com/users/1187278/screenshots/16762086/media/10ba6161c70f3edd67f34e229b62b852.gif">
 
 - 📫 How to reach me **NuskheladzeShota@gmail.com**
 
